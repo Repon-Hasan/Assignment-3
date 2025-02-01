@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+.sora {
+    font-family: "Sora", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .banner{
+    background: linear-gradient(180.00deg, rgb(255, 255, 255),rgb(239, 235, 227) 100%);
+
+  }
+  .card{
+    border-radius: 13.45px;
+background: rgb(239, 235, 227);
+
+  }
+   .card img{
+    width: 174.69px;
+height: 184.09px;
+margin: auto;
+margin-top: 45px;
+margin-bottom: 25px;
+background-color: white;
+   }
+   .product-section {
+    
+background: rgb(239, 235, 227);
+   }
+   .product-card{
+    
+border: 1px solid rgba(17, 17, 17, 0.1);
+border: none;
+
+/* background: rgb(255, 255, 255); */
+   }
+   .p-card{
+    
+  border: 1px solid rgba(17, 17, 17, 0.1);
+  border-radius: 10px;
+  background: rgb(255, 255, 255);
+
+  
+   }
+ .p-card img{
+  /* width: 95.32px;
+height: 70px; */
+background: rgb(239, 235, 227);
+/* margin-top: 20px;
+margin-left: 20px; */
+
+
+ }
+ .content i{
+    color:  rgb(255, 193, 7);;
+ }
+ .left-image button{
+  border-radius: 13.29px;
+
+background: rgb(99, 183, 109);
+ }
+ .right-image{
+  border-radius: 24px;
+
+background: rgb(16, 40, 97);
+ }
+ .right-image button{
+  background: rgb(54, 99, 205);
+  border-radius: 13.29px;
+ }
+ .news-section{
+  border-radius: 24px;
+background: rgb(239, 235, 227);
+ }
+ .middle li{
+text-decoration: none;
+
+ }
